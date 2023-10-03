@@ -1,6 +1,4 @@
-# InAppupdates
- 
-# Update flows
+# In-App update flows
 
 Your app can use the Google Play Core libraries to support the following UX flows for in-app updates:
 
